@@ -82,42 +82,52 @@ class HomeVC: UIViewController {
         appInfoLabel.layer.masksToBounds = true
         appInfoLabel.text = "Welcome to RaveBank! \n Enter your personal information to take loan froum our bank."
     }
+    
     func prepareCreateNameTF() {
         createNameTF.layer.cornerRadius = 5
         createNameTF.layer.masksToBounds = true
     }
+    
     func prepareCreateSurnameTF() {
         createSurnameTF.layer.cornerRadius = 5
         createSurnameTF.layer.masksToBounds = true
     }
+    
     func prepareCreateIdentificationTF() {
         createIdentificationTF.layer.cornerRadius = 5
         createIdentificationTF.layer.masksToBounds = true
     }
+    
     func prepareCreateBirthdayTF() {
         createBirthdayTF.layer.cornerRadius = 5
         createBirthdayTF.layer.masksToBounds = true
     }
+    
     func prepareCreateCountryTF() {
         createCountryTF.layer.cornerRadius = 5
         createCountryTF.layer.masksToBounds = true
     }
+    
     func prepareCreateStateTF() {
         createStateTF.layer.cornerRadius = 5
         createStateTF.layer.masksToBounds = true
     }
+    
     func prepareCreatePhoneTF() {
         createPhoneTF.layer.cornerRadius = 5
         createPhoneTF.layer.masksToBounds = true
     }
+    
     func prepareCreateUniversityTF() {
         createUniversityTF.layer.cornerRadius = 5
         createUniversityTF.layer.masksToBounds = true
     }
+    
     func prepareCreateHoroscopeTF() {
         createHoroscopeTF.layer.cornerRadius = 5
         createHoroscopeTF.layer.masksToBounds = true
     }
+    
     func prepareCreateFavTeamTF() {
         createFavTeamTF.layer.cornerRadius = 5
         createFavTeamTF.layer.masksToBounds = true
